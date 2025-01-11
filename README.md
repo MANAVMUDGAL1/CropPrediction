@@ -1,0 +1,1 @@
+The Crop-Prediction project employs K-Means Clustering to analyze factors like soil type, climate, and rainfall. It provides farmers with actionable insights, enabling them to choose suitable crops for specific conditions, enhancing agricultural productivity and promoting sustainable farming practices.
